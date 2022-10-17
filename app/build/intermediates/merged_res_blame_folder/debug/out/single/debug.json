@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/layout_fragment_main.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/layout_message_list_item.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/message_list_item.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.uncc.inclass07.app-merged_res-29:/layout_fragment_detail.xml.flat",
+        "source": "edu.uncc.inclass07.app-main-31:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/layout_fragment_detail.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/xml/backup_rules.xml"
+    }
+]

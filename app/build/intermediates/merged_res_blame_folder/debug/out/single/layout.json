@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "edu.uncc.inclass07.app-mergeDebugResources-28:/layout/fragment_detail.xml",
+        "source": "edu.uncc.inclass07.app-main-31:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-mergeDebugResources-28:/layout/message_list_item.xml",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/message_list_item.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-mergeDebugResources-28:/layout/fragment_main.xml",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-mergeDebugResources-28:/layout/fragment_detail.xml",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "/Users/kstanley/.gradle/daemon/7.3.3/edu.uncc.inclass07.app-main-31:/layout/activity_main.xml"
+    }
+]
